@@ -1,0 +1,13 @@
+.env
+.env.local
+.env.*.local
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+node_modules/
+dist/
+build/
+.DS_Store
+tmp/
+
